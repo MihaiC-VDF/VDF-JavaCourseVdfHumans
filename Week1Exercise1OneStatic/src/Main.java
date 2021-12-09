@@ -4,7 +4,7 @@ public class Main {
             // write your code here
 
             //Test
-
+                System.out.println("Test");
         }
 
 }
